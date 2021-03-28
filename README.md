@@ -1,2 +1,4 @@
 # sentiment_analysis
-amazon reviews  are used to perform sentiment analysis using vader sentiment analysis
+user posts are used from several social networking platform to perform sentiment analysis using vader sentiment analysis
+python
+setiment intensity analyser library
